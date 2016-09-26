@@ -1,0 +1,75 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: Calendar
+  url: "/calendar/"
+  side: left
+
+- title: "Bands"
+  url: "/bands/"
+  side: left
+  dropdown:
+  - title: "Marching Band"
+    url: "/bands/marching/"
+  - title: "Drumline"
+    url: "/bands/drumline/"
+  - title: "Winter Guard"
+    url: "/bands/guard/"
+  - title: "Jazz"
+    url: "/bands/jazz/"
+  - title: "Concert"
+    url: "/bands/concert/"
+  - title: "Symphonic"
+    url: "/bands/symphonic/"
+
+- title: "Band Boosters"
+  url: "/boosters/"
+  side: left
+  dropdown:
+  - title: "Booster Board"
+    url: "/boosters/board/"
+  - title: "Minutes"
+    url: "/boosters/minutes/"
+  - title: "Organization Chart"
+    url: "/boosters/orgchart/"
+
+- title: Charms
+  url: "https://www.charmsoffice.com/charms/plogin.asp"
+  side: left
+
+- title: Invitational
+  url: "/invitational/"
+  side: left
+  dropdown:
+  - title: "Information"
+    url: "/invitational/info/"
+  - title: "Online Registration"
+    url: "/invitational/onlinereg/"
+  - title: "Hardcopy Registration"
+    url: "http://184.154.241.154/fhhsmb.org/images/Invitational/2016_Francis_Howell_Invitational_Entry_Form.pdf"
+  - title: Map to Francis Howell
+    url: "https://goo.gl/maps/JxTA1"
+
+- title: "Arts and Craft Fair"
+  url: "/fair/"
+  side: left
+  dropdown:
+  - title: "Information"
+    url: "/fair/info/"
+  - title: "Application (Paypal)"
+    url: "/fair/paypal/"
+  - title: "Application (Check)"
+    url: "/fair/check/"
+  - title: "Craft Fair Flyer"
+    url: "/fair/flyer/"
+  - title: "Worker Signup"
+    url: ""
+    
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right

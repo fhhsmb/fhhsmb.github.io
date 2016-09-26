@@ -1,0 +1,36 @@
+- menu_name: "Links of Interest"
+
+- name: "Francis Howell High School"
+  url: "http://fhsdfhhs.sharpschool.net/"
+  class: "network-entypo"
+  title: "Francie Howell High School"
+
+- name: "FHSD Safe Kids"
+  url: "http://fhhsmb.org/index.php?option=com_content&view=article&id=97&Itemid=110"
+  class: "services-newsletter"
+  title: "FHSD Safe Kids"
+
+- name: "Francis Howell School District"
+  url: "http://www.fhsdschools.org/"
+  class: "services-newsletter"
+  title: "FHSD"
+
+- name: "Mid Continent Color Guard Association"
+  url: "http://mccga.org/"
+  class: "sitemap-link"
+  title: "MCCGA"
+
+- name: "Winter Guard International"
+  url: "http://wgi.org/"
+  class: "network-entypo"
+  title: "WGI"
+
+- name: "Images by John Gerard Photography"
+  url: "http://www.johngerardphotography.com/"
+  class: "rss-link"
+  title: "Images by John Gerard Photography"
+
+- name: "Student Band Eligibility"
+  url: "http://fhhsmb.org/webpages/elegibility.pdf"
+  class: "sitemap-link"
+  title: "Student Band Eligibility"

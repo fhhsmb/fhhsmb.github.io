@@ -1,0 +1,49 @@
+- name: GitHub
+  url: http://github.com/fhhsmb
+  class: icon-github
+  title: Code und mehr...
+
+- name: YouTube
+  url: http://www.youtube.com/fhhsmb
+  class: icon-youtube
+  title: "Videos of FHHS Bands"
+
+- name: Twitter
+  url: http://twitter.com/fhhsmb
+  class: icon-twitter
+  title: "Twitter account of FHHS Bands"
+
+#- name: Mixcloud
+#  url: http://www.mixcloud.com/fhhsmb/
+#  class: icon-cloud
+#  title: "Mix, what's that?"
+
+- name: Phlow YouTube Google+
+  url: https://plus.google.com/u/0/+fhhsmb
+  class: icon-googleplus
+  title: "YouTube Google+"
+
+- name: Facebook
+  url: http://www.facebook.com/fhhsmb
+  class: icon-facebook
+  title: "FHHS Bands"
+
+# - name: Soundcloud
+#   url: http://soundcloud.com/
+#   class: icon-soundcloud
+#   title: ""
+
+# - name: Instagram
+#   url: http://instagram.com/
+#   class: icon-instagram
+#   title: ""
+
+# - name: Pinterest
+#   url: http://www.pinterest.com/
+#   class: icon-pinterest
+#   title: ""
+
+# - name: Xing
+#   url: https://www.xing.com/profile/
+#   class: icon-xing
+#   title: Xing Profil
