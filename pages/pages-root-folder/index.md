@@ -12,6 +12,7 @@ widget1:
   url: '/bands/marching/'
   image: mb-widget.jpg
   text: 'Select this section to find information on the <em>Francis Howell Marching Band</em>. It will include infomation on schedule, eligibility, band camp, and upcoming events.'
+  video: '<a href="#" data-reveal-id="videoModal1"><img src="/images/marching.png" width="302" height="182" alt=""/></a>'
 widget2:
   title: "Drumline Info"
   url: '/bands/drumline/'
@@ -44,6 +45,12 @@ permalink: /index.html
 homepage: true
 ---
 
+<div id="videoModal1" class="reveal-modal large" data-reveal="">
+  <div class="flex-video widescreen vimeo" style="display: block;">
+    <iframe width="1280" height="720" src="http://www.youtube.com/embed/Pxw4wvZTcEY" frameborder="0" allowfullscreen></iframe>
+  </div>
+  <a class="close-reveal-modal">&#215;</a>
+</div>
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
     <iframe width="1280" height="720" src="http://www.youtube.com/embed/OPkQ7RzGX8Q" frameborder="0" allowfullscreen></iframe>
