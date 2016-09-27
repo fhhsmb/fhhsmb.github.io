@@ -13,7 +13,7 @@ header:
 ---
 
 # Schedule
-<div style="color:black">
+
 Event | Date | Location
 --- | --- | ---
 FHSD Band Preview | 8/25/2016 | Francis Howell North High School
@@ -30,7 +30,7 @@ Mizzou Contest | 10/15/2016 | University of Missouri - Columbia
 Bands of America - TBA | 10/21/2016 | The Dome at America's Center - St. Louis
 St. Genevieve Marching Contest | 10/22/2016 | St. Genevieve High School
 FHHS Invitational | 10/29/2016 | Francis Howell High School
-</div>
+
 # Videos
 <div class="row">
   <div class="large-4 columns">
