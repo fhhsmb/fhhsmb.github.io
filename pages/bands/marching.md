@@ -12,8 +12,8 @@ header:
     image_fullwidth: "mb-header.jpg"
 ---
 
-* Schedule
-
+# Schedule
+<div style="color:black">
 Event | Date | Location
 --- | --- | ---
 FHSD Band Preview | 8/25/2016 | Francis Howell North High School
@@ -30,8 +30,8 @@ Mizzou Contest | 10/15/2016 | University of Missouri - Columbia
 Bands of America - TBA | 10/21/2016 | The Dome at America's Center - St. Louis
 St. Genevieve Marching Contest | 10/22/2016 | St. Genevieve High School
 FHHS Invitational | 10/29/2016 | Francis Howell High School
-
-* Videos
+</div>
+# Videos
 <div class="row">
   <div class="large-4 columns">
       <a href="#" data-reveal-id="videoModal1"><img src="https://i.ytimg.com/vi/D2EBdVEQKe0/hqdefault.jpg" width="303" height="182" alt=""/></a>
@@ -48,19 +48,19 @@ FHHS Invitational | 10/29/2016 | Francis Howell High School
 </div>
 <div id="videoModal1" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="http://www.youtube.com/embed/D2EBdVEQKe0" frameborder="0" allowfullscreen></iframe>
+    <iframe width="1280" height="720" src="https://www.youtube.com/embed/D2EBdVEQKe0" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
 <div id="videoModal2" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="http://www.youtube.com/embed/vjQ5kBxKHdE" frameborder="0" allowfullscreen></iframe>
+    <iframe width="1280" height="720" src="https://www.youtube.com/embed/vjQ5kBxKHdE" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
 <div id="videoModal3" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="http://www.youtube.com/embed/Pxw4wvZTcEY" frameborder="0" allowfullscreen></iframe>
+    <iframe width="1280" height="720" src="https://www.youtube.com/embed/Pxw4wvZTcEY" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
