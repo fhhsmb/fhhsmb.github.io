@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title:  "Marching Band"
-subheadline: "Here you will find information on the FHHS Marching Band including the schedule and videos."
+teaser: "Here you will find information on the FHHS Marching Band including the schedule and videos."
 categories:
     - bands
 tags:
