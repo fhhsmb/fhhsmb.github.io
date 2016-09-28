@@ -12,7 +12,7 @@ header:
     image_fullwidth: "mb-header.jpg"
 ---
 
-# Schedule
+## Schedule
 
 Event | Date | Location
 --- | --- | ---
@@ -32,7 +32,7 @@ St. Genevieve Marching Contest | 10/22/2016 | St. Genevieve High School
 FHHS Invitational | 10/29/2016 | Francis Howell High School
 
 
-# Videos
+## Videos
 <div class="row">
   <div class="large-4 columns">
       <a href="#" data-reveal-id="videoModal1"><img src="https://i.ytimg.com/vi/D2EBdVEQKe0/hqdefault.jpg" width="303" height="182" alt=""/></a>
