@@ -7,7 +7,7 @@ categories:
 tags:
     - Drumline
     - fall/winter activity
-permalink: "/bands/marching/"
+permalink: "/bands/drumline/"
 header:
     image_fullwidth: "drumline-header.jpg"
 ---
