@@ -1,9 +1,8 @@
 ---
 layout: page-fullwidth
+show_meta: false
 title:  "Bands"
 teaser: "Here you will find information on the bands at Francis Howell High School."
-categories:
-    - bands
 tags:
     - bands
     - marching
@@ -16,3 +15,8 @@ permalink: "/bands/"
 header:
     image_fullwidth: "mb-header.jpg"
 ---
+<ul>
+    {% for post in site.categories.bands %}
+    <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>

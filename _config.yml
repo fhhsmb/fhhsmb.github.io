@@ -42,7 +42,7 @@ urlimg: '/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "logo.png"
+logo: "logo2.png"
 
 
 #       ____              _             __  _
@@ -108,7 +108,7 @@ defaults:
       path: '' 				# an empty string here means all files in the project
       type: 'pages'
     values:
-      show_meta: false 	# Hide metadata for all pages
+      show_meta: true 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
       author: fhhsmb     # Default author for pages
@@ -246,3 +246,5 @@ google_analytics_tracking_id: UA-60112281-1
 # used in _includes/footer_scripts
 
 # tawkto_embed_uri:
+collections:
+  - minutes

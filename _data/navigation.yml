@@ -65,7 +65,26 @@
     url: "/fair/flyer/"
   - title: "Worker Signup"
     url: ""
-    
+
+- title: "Links"
+  url: "/links/"
+  side: left
+  dropdown:
+  - title: "Francis Howell High School"
+    url: "http://fhsdfhhs.sharpschool.net/"
+  - title: "FHSD Safe Kids"
+    url: "http://fhhsmb.org/index.php?option=com_content&view=article&id=97&Itemid=110"
+  - title: "Francis Howell School District"
+    url: "http://www.fhsdschools.org/"
+  - title: "Mid Continent Color Guard Association"
+    url: "http://mccga.org/"
+  - title: "Winter Guard International"
+    url: "http://wgi.org/"
+  - title: "Images by John Gerard Photography"
+    url: "http://www.johngerardphotography.com/"
+  - title: "Student Band Eligibility"
+    url: "http://fhhsmb.org/webpages/elegibility.pdf"
+
 - title: "Search"
   url: "/search/"
   side: right
