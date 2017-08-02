@@ -4,7 +4,6 @@ title: "Calendar"
 permalink: "/calendar/"
 header:
    image: Calendar2.jpg
-   background-color: "#3733ee"
 ---
 
 <div id='charmscalendar' style='position: relative; padding-bottom: 108%; height: 100%; overflow: hidden;'>
