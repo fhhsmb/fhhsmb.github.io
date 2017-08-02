@@ -24,85 +24,85 @@ header:
 <tr>
 <td valign="middle">
 <ul>
-<li><span style="font-family: arial, helvetica, sans-serif;"><strong>Music Performance Ensemble</strong></span></li>
+<li><span><strong>Music Performance Ensemble</strong></span></li>
 </ul>
 </td>
-<td style="width: 112px;"><span style="font-family: arial, helvetica, sans-serif;"></span></td>
-<td style="text-align: right;" valign="top"><span style="font-family: arial, helvetica, sans-serif;"><strong>20%</strong></span></td>
+<td style="width: 112px;"><span></span></td>
+<td style="text-align: right;" valign="top"><span><strong>20%</strong></span></td>
 </tr>
 <tr>
 <td valign="middle">
 <ul>
-<li><span style="font-family: arial, helvetica, sans-serif;"><strong>Music Performance Individual (field level)</strong></span></li>
+<li><span><strong>Music Performance Individual (field level)</strong></span></li>
 </ul>
 </td>
-<td style="width: 112px;"><span style="font-family: arial, helvetica, sans-serif;"></span></td>
-<td style="text-align: right;" valign="top"><span style="font-family: arial, helvetica, sans-serif;"><strong>20%</strong></span></td>
+<td style="width: 112px;"><span></span></td>
+<td style="text-align: right;" valign="top"><span><strong>20%</strong></span></td>
 </tr>
 <tr>
 <td valign="middle">
 <ul>
-<li><span style="font-family: arial, helvetica, sans-serif;"><strong>Music Performance General Effect</strong></span></li>
+<li><span><strong>Music Performance General Effect</strong></span></li>
 </ul>
 </td>
-<td style="width: 112px;"><span style="font-family: arial, helvetica, sans-serif;"></span></td>
-<td style="text-align: right;" valign="top"><span style="font-family: arial, helvetica, sans-serif;"><strong>20%</strong></span></td>
+<td style="width: 112px;"><span></span></td>
+<td style="text-align: right;" valign="top"><span><strong>20%</strong></span></td>
 </tr>
 <tr>
 <td valign="middle">
 <ul>
-<li><span style="font-family: arial, helvetica, sans-serif;"><strong>Visual Performance Ensemble  &#8680; </strong></span></li>
+<li><span><strong>Visual Performance Ensemble  &#8680; </strong></span></li>
 </ul>
 </td>
-<td rowspan="2" style="width: 112px;"><span style="font-family: arial, helvetica, sans-serif;" valign="middle"><strong>Averaged</strong></span></td>
-<td rowspan="2" style="width: 30px;" align="right" valign="middle"><span style="font-family: arial, helvetica, sans-serif;"><strong>20%</strong></span></td>
+<td rowspan="2" style="width: 112px;"><span valign="middle"><strong>Averaged</strong></span></td>
+<td rowspan="2" style="width: 30px;" align="right" valign="middle"><span><strong>20%</strong></span></td>
 </tr>
 <tr>
 <td valign="middle">
 <ul>
-<li><span style="font-family: arial, helvetica, sans-serif;"><strong>Visual Performance Individual (field level)  &#8680;</strong></span></li>
+<li><span><strong>Visual Performance Individual (field level)  &#8680;</strong></span></li>
 </ul>
 </td>
 </tr>
 <tr>
 <td valign="middle">
 <ul>
-<li><span style="font-family: arial, helvetica, sans-serif;"><strong>Visual Performace General Effect</strong></span></li>
+<li><span><strong>Visual Performace General Effect</strong></span></li>
 </ul>
 </td>
-<td style="width: 112px;"><span style="font-family: arial, helvetica, sans-serif;"></span></td>
-<td style="width: 30px;" align="right" valign="top"><span style="font-family: arial, helvetica, sans-serif;"><strong>20%</strong></span></td>
+<td style="width: 112px;"><span></span></td>
+<td style="width: 30px;" align="right" valign="top"><span><strong>20%</strong></span></td>
 </tr>
 </tbody>
 </table>
 <p><em>*Judging sheets will be the Mid-America Marching Consortium sheets</em></p>
-<p><span style="font-family: arial, helvetica, sans-serif;"><strong>Again this year</strong>: In addition to the captions we have traditionally offered, there will be additional judges to score for caption awards for the best guard and percussion in each class.</span></p>
-<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><strong>Registration:</strong></span><br /><span style="font-family: arial, helvetica, sans-serif;">You may register by mailing the registration form, or you may register online. You can find links on our website, <a href="http://www.fhhsmb.org" target="_blank" title="Francis Howell High School Band Booster Association">www.fhhsmb.org</a>, and we have a listing on <a href="http://www.midwestmarching.com/" target="_blank" title="Midwest Marching">www.midwestmarching.com</a>. There is a discount for registering by May 31st. Payment is not due until August 31st, so you do not need to send payment at the time of registration.</span></p>
-<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">You will receive additional information regarding parking, check-in, warm-ups, etc. 2-3 weeks before the event.</span></p>
-<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">It is my distinct hope that the Francis Howell Invitational will continue to be one of the area&rsquo;s premier marching band events. I wish you the best of luck as you prepare for the next season.</span></p>
-<p><span style="font-family: arial, helvetica, sans-serif;">If you have any questions, feel free to contact me at the following:</span></p>
-<p style="padding-left: 30px;"><span style="font-family: arial, helvetica, sans-serif;">Office: (636) 851-4803</span><br /><span style="font-family: arial, helvetica, sans-serif;">Fax: (636) 851-4117</span><br /><span style="font-family: arial, helvetica, sans-serif;">Email: Chris.Miller@fhsdschools.org</span></p>
-<p><span style="font-family: arial, helvetica, sans-serif;">Sincerely,</span></p>
-<p><span style="font-family: arial, helvetica, sans-serif;"><strong>Chris Miller, Director of Bands</strong></span><br /><span style="font-family: arial, helvetica, sans-serif;"><strong>Francis Howell High School</strong></span></p>
+<p><span><strong>Again this year</strong>: In addition to the captions we have traditionally offered, there will be additional judges to score for caption awards for the best guard and percussion in each class.</span></p>
+<p style="text-align: justify;"><span><strong>Registration:</strong></span><br /><span>You may register by mailing the registration form, or you may register online. You can find links on our website, <a href="http://www.fhhsmb.org" target="_blank" title="Francis Howell High School Band Booster Association">www.fhhsmb.org</a>, and we have a listing on <a href="http://www.midwestmarching.com/" target="_blank" title="Midwest Marching">www.midwestmarching.com</a>. There is a discount for registering by May 31st. Payment is not due until August 31st, so you do not need to send payment at the time of registration.</span></p>
+<p style="text-align: justify;"><span>You will receive additional information regarding parking, check-in, warm-ups, etc. 2-3 weeks before the event.</span></p>
+<p style="text-align: justify;"><span>It is my distinct hope that the Francis Howell Invitational will continue to be one of the area&rsquo;s premier marching band events. I wish you the best of luck as you prepare for the next season.</span></p>
+<p><span>If you have any questions, feel free to contact me at the following:</span></p>
+<p style="padding-left: 30px;"><span>Office: (636) 851-4803</span><br /><span>Fax: (636) 851-4117</span><br /><span>Email: Chris.Miller@fhsdschools.org</span></p>
+<p><span>Sincerely,</span></p>
+<p><span><strong>Chris Miller, Director of Bands</strong></span><br /><span><strong>Francis Howell High School</strong></span></p>
 <p style="margin: 0in -0.3in 0.0001pt 30px;">&nbsp;</p>
 <table style="width: 75%; border-collapse: collapse; border: 1px none; height: 50px;" cellspacing="0" cellpadding="0" align="center">
 <tbody>
 <tr style="height: 12.85pt;">
-<td colspan="5" style="width: 532.5pt; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; padding: 0in 5.4pt; height: 11.65pt;text-align:center;" valign="center" width="710"><span style="font-family: arial, helvetica, sans-serif; text-decoration: underline;"><strong>Band Boosters Executive Board</strong></span></td>
+<td colspan="5" style="width: 532.5pt; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; padding: 0in 5.4pt; height: 11.65pt;text-align:center;" valign="center" width="710"><span style="text-decoration: underline;"><strong>Band Boosters Executive Board</strong></span></td>
 </tr>
 <tr style="height: 12.85pt;">
-<td style="width: 106.5pt; border-top: none; border-right: none; border-bottom: none; border-left: 1pt solid windowtext; padding: 0in 5.4pt; height: 12.85pt;text-align:center;" valign="top" width="142"><span style="font-family: arial, helvetica, sans-serif;"><a href="mailto:BoardPresident@fhhsmb.org">Mark Losch</a></span></td>
-<td style="width: 106.5pt; border: none; padding: 0in 5.4pt; height: 12.85pt;text-align:center;" valign="top" width="142"><span style="font-family: arial, helvetica, sans-serif;"><a href="mailto:VicePresident@fhhsmb.org">John Reckis</a></span></td>
-<td style="width: 106.5pt; border: none; padding: 0in 5.4pt; height: 12.85pt;text-align:center;" valign="top" width="142"><span style="font-family: arial, helvetica, sans-serif;"><a href="mailto:Treasurer@fhhsmb.org">Karen Bryant</a></span></td>
-<td style="width: 106.5pt; border: none; padding: 0in 5.4pt; height: 12.85pt;text-align:center;" valign="top" width="142"><span style="font-family: arial, helvetica, sans-serif;"><a href="mailto:Secretary@fhhsmb.org">Kathy Bahan</a></span></td>
-<td style="width: 106.5pt; border-top: none; border-bottom: none; border-left: none; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 12.85pt;text-align:center;" valign="top" width="142"><span style="font-family: arial, helvetica, sans-serif;"><a href="mailto:VolunteerCoordinator@fhhsmb.org">Joan DeMeyer</a></span></td>
+<td style="width: 106.5pt; border-top: none; border-right: none; border-bottom: none; border-left: 1pt solid windowtext; padding: 0in 5.4pt; height: 12.85pt;text-align:center;" valign="top" width="142"><span><a href="mailto:BoardPresident@fhhsmb.org">Mark Losch</a></span></td>
+<td style="width: 106.5pt; border: none; padding: 0in 5.4pt; height: 12.85pt;text-align:center;" valign="top" width="142"><span><a href="mailto:VicePresident@fhhsmb.org">John Reckis</a></span></td>
+<td style="width: 106.5pt; border: none; padding: 0in 5.4pt; height: 12.85pt;text-align:center;" valign="top" width="142"><span><a href="mailto:Treasurer@fhhsmb.org">Karen Bryant</a></span></td>
+<td style="width: 106.5pt; border: none; padding: 0in 5.4pt; height: 12.85pt;text-align:center;" valign="top" width="142"><span><a href="mailto:Secretary@fhhsmb.org">Kathy Bahan</a></span></td>
+<td style="width: 106.5pt; border-top: none; border-bottom: none; border-left: none; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 12.85pt;text-align:center;" valign="top" width="142"><span><a href="mailto:VolunteerCoordinator@fhhsmb.org">Joan DeMeyer</a></span></td>
 </tr>
 <tr style="height: 12.85pt;">
-<td style="width: 106.5pt; border-top: none; border-left: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-right: none; padding: 0in 5.4pt; height: 12.85pt;text-align:center;" valign="top" width="142"><span style="font-size: 9pt; font-family: Cambria, serif;">President</span></td>
-<td style="width: 106.5pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: none; padding: 0in 5.4pt; height: 12.85pt;text-align:center;" valign="top" width="142"><span style="font-size: 9pt; font-family: Cambria, serif;">Vice President</span></td>
-<td style="width: 106.5pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: none; padding: 0in 5.4pt; height: 12.85pt;text-align:center;" valign="top" width="142"><span style="font-size: 9pt; font-family: Cambria, serif;">Treasurer</span></td>
-<td style="width: 106.5pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: none; padding: 0in 5.4pt; height: 12.85pt;text-align:center;" valign="top" width="142"><span style="font-size: 9pt; font-family: Cambria, serif;">Secretary</span></td>
-<td style="width: 106.5pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 12.85pt;text-align:center;" valign="top" width="142"><span style="font-size: 9pt; font-family: Cambria, serif;">Volunteer Coordinator</span></td>
+<td style="width: 106.5pt; border-top: none; border-left: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-right: none; padding: 0in 5.4pt; height: 12.85pt;text-align:center;" valign="top" width="142"><span>President</span></td>
+<td style="width: 106.5pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: none; padding: 0in 5.4pt; height: 12.85pt;text-align:center;" valign="top" width="142"><span>Vice President</span></td>
+<td style="width: 106.5pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: none; padding: 0in 5.4pt; height: 12.85pt;text-align:center;" valign="top" width="142"><span>Treasurer</span></td>
+<td style="width: 106.5pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: none; padding: 0in 5.4pt; height: 12.85pt;text-align:center;" valign="top" width="142"><span>Secretary</span></td>
+<td style="width: 106.5pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0in 5.4pt; height: 12.85pt;text-align:center;" valign="top" width="142"><span>Volunteer Coordinator</span></td>
 </tr>
 </tbody>
 </table>
