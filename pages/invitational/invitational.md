@@ -6,7 +6,7 @@ categories:
     - bands
 tags:
     - Invitational
-permalink: "/invitational/"
+permalink: "/invitational/info/"
 header:
     image_fullwidth: "mb-header.jpg"
 ---
