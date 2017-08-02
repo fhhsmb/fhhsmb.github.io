@@ -1,3 +1,16 @@
+---
+layout: page-fullwidth
+title:  "2017 Director's Letter"
+teaser: "Here you will find information on the 2017 FHHS Invitational."
+categories:
+    - bands
+tags:
+    - Invitational
+permalink: "/invitational/"
+header:
+    image_fullwidth: "mb-header.jpg"
+---
+
 <p style="text-align: center;"><img src="images/vikinglogo.jpg" alt="vikinglogo" width="100" height="62" /></p>
 <h2 style="text-align: center;">Francis Howell High School Band Booster Association</h2>
 <address style="text-align: center;">7001 Highway 94 South &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;St. Charles, MO 63304 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Phone:636.851.4803<hr /></address><address style="text-align: center;"><a href="images/Director-Invite-Letter-2017.pdf" target="_blank" title="2017 Director Invite Letter">Print this letter</a>&nbsp;</address><address><span style="font-size: 9pt; font-family: arial, helvetica, sans-serif;">January 20, 2017</span></address><address><span style="font-family: arial, helvetica, sans-serif;"></span></address>
@@ -93,6 +106,3 @@
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<div>&nbsp;</div>
