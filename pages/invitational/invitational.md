@@ -11,7 +11,7 @@ header:
     image_fullwidth: "mb-header.jpg"
 ---
 
-<p style="text-align: center;"><img src="images/vikinglogo.jpg" alt="vikinglogo" width="100" height="62" /></p>
+<p style="text-align: center;"><img src="images/logo.jpg" alt="vikinglogo" width="100" height="62" /></p>
 <h2 style="text-align: center;">Francis Howell High School Band Booster Association</h2>
 <address style="text-align: center;">7001 Highway 94 South &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;St. Charles, MO 63304 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Phone:636.851.4803<hr /></address><address style="text-align: center;"><a href="images/Director-Invite-Letter-2017.pdf" target="_blank" title="2017 Director Invite Letter">Print this letter</a>&nbsp;</address><address><span style="font-size: 9pt; font-family: arial, helvetica, sans-serif;">January 20, 2017</span></address><address><span style="font-family: arial, helvetica, sans-serif;"></span></address>
 <p><span style="font-size: 9pt; font-family: arial, helvetica, sans-serif;">Dear Band Director,</span></p>
