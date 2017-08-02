@@ -13,12 +13,12 @@ header:
 
 <p style="text-align: center;"><img src="/images/logo.jpg" alt="vikinglogo" width="100" height="62" /></p>
 <h2 style="text-align: center;">Francis Howell High School Band Booster Association</h2>
-<address style="text-align: center;">7001 Highway 94 South &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;St. Charles, MO 63304 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Phone:636.851.4803<hr /></address><address style="text-align: center;"><a href="images/Director-Invite-Letter-2017.pdf" target="_blank" title="2017 Director Invite Letter">Print this letter</a>&nbsp;</address><address><span style="font-size: 9pt; font-family: arial, helvetica, sans-serif;">January 20, 2017</span></address><address><span style="font-family: arial, helvetica, sans-serif;"></span></address>
-<p><span style="font-size: 9pt; font-family: arial, helvetica, sans-serif;">Dear Band Director,</span></p>
-<p style="text-align: justify;"><span style="font-size: 9pt; font-family: arial, helvetica, sans-serif;">I am very excited to invite you and your band to join us on October 28, 2017 (rain or shine) for the <strong><span style="text-decoration: underline;">37<sup>th</sup>Annual Francis Howell Marching Invitational</span></strong>.&nbsp; We will hold the event at Francis Howell High School on the all-weather turf field inside Viking Stadium and use a prelims/finals format. We have used Team Pageantry, Inc. to judge the event each of the last four years, and we plan to contract with them again for this year&rsquo;s event.</span></p>
-<h4><span style="font-size: 9pt; font-family: arial, helvetica, sans-serif;">Band Classification:</span></h4>
-<p style="text-align: justify;"><span style="font-size: 9pt; font-family: arial, helvetica, sans-serif;">Bands will be placed into classes to allow bands of similar size to compete against one another. You may choose to play in a larger band class for the preliminary round; please let us know in advance so the necessary arrangements can be made prior to the event.&nbsp; <em>Performance order in the preliminary round is determined by registration date, regardless of band classification</em>.</span></p>
-<p><span style="font-family: arial, helvetica, sans-serif;"><strong>Your marching band will be critiqued in the following categories:</strong></span></p>
+<address style="text-align: center;">7001 Highway 94 South &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;St. Charles, MO 63304 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Phone:636.851.4803<hr /></address><address style="text-align: center;"><a href="images/Director-Invite-Letter-2017.pdf" target="_blank" title="2017 Director Invite Letter">Print this letter</a>&nbsp;</address><address><span>January 20, 2017</span></address><address><span></span></address>
+<p><span>Dear Band Director,</span></p>
+<p style="text-align: justify;"><span>I am very excited to invite you and your band to join us on October 28, 2017 (rain or shine) for the <strong><span style="text-decoration: underline;">37<sup>th</sup>Annual Francis Howell Marching Invitational</span></strong>.&nbsp; We will hold the event at Francis Howell High School on the all-weather turf field inside Viking Stadium and use a prelims/finals format. We have used Team Pageantry, Inc. to judge the event each of the last four years, and we plan to contract with them again for this year&rsquo;s event.</span></p>
+<h4><span>Band Classification:</span></h4>
+<p style="text-align: justify;"><span>Bands will be placed into classes to allow bands of similar size to compete against one another. You may choose to play in a larger band class for the preliminary round; please let us know in advance so the necessary arrangements can be made prior to the event.&nbsp; <em>Performance order in the preliminary round is determined by registration date, regardless of band classification</em>.</span></p>
+<p><span><strong>Your marching band will be critiqued in the following categories:</strong></span></p>
 <table style="height: 196px; width: 620px;">
 <tbody>
 <tr>
@@ -54,7 +54,7 @@ header:
 <li><span style="font-family: arial, helvetica, sans-serif;"><strong>Visual Performance Ensemble  &#8680; </strong></span></li>
 </ul>
 </td>
-<td rowspan="2" style="width: 112px;"><span style="font-family: arial, helvetica, sans-serif;"><strong>Averaged</strong></span></td>
+<td rowspan="2" style="width: 112px;"><span style="font-family: arial, helvetica, sans-serif;" valign="middle"><strong>Averaged</strong></span></td>
 <td rowspan="2" style="width: 30px;" align="right" valign="middle"><span style="font-family: arial, helvetica, sans-serif;"><strong>20%</strong></span></td>
 </tr>
 <tr>
