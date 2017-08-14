@@ -31,7 +31,7 @@ Bands of America - TBA | 10/21/2017 | [The Dome at America's Center - St. Louis]
 FHHS Invitational | 10/28/2017 | [Francis Howell High School](https://www.google.com/maps/place/Francis+Howell+High+School/@38.7021906,-90.7164762,15z)
 
 
-# Videos
+# Past Performance Videos
 <div class="row">
   <div class="large-4 columns">
       <a href="#" data-reveal-id="videoModal1"><img src="https://i.ytimg.com/vi/D2EBdVEQKe0/hqdefault.jpg" width="303" height="182" alt=""/></a>
