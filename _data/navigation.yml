@@ -64,7 +64,7 @@
   - title: "Craft Fair Flyer"
     url: "/fair/flyer/"
   - title: "Worker Signup"
-    url: ""
+    url: "/fair/signup/"
 
 - title: "Links"
   url: "/links/"
