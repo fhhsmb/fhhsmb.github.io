@@ -163,7 +163,7 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
         list-style: none;
       }
 
-      .row { max-width: none; }
+      .row { max-width: 100%; }
 
       form,
       input { margin-bottom: 0; }

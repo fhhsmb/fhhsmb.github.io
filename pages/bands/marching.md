@@ -16,21 +16,20 @@ header:
 
 Event | Date | Location
 --- | --- | ---
-FHSD Band Preview | 8/25/2016 | [Francis Howell North High School](https://www.google.com/maps/place/Francis+Howell+North+High+School/@38.7618243,-90.5596178,15z)
-Home Football Game | 8/26/2016 | [Francis Howell High School](https://www.google.com/maps/place/Francis+Howell+High+School/@38.7021906,-90.7164762,15z)
-Mozingo Music Drumline Competition | 8/27/2016 | [Eureka High School](https://www.google.com/maps/place/Eureka+High+School/@38.5155453,-90.6290997,15z)
-Home Football Game | 9/2/2016 | [Francis Howell High School](https://www.google.com/maps/place/Francis+Howell+High+School/@38.7021906,-90.7164762,15z)
-O'Fallon Township HS Festival | 9/10/2016 | [O'Fallon Township High School](https://www.google.com/maps/place/O'Fallon+Township+High+School/@38.5866357,-89.9013462,15z)
-Homecoming Football Game | 9/23/2016 | [Francis Howell High School](https://www.google.com/maps/place/Francis+Howell+High+School/@38.7021906,-90.7164762,15z)
-Ozark High School Contest | 9/24/2016 | [Ozark High School](https://www.google.com/maps/place/Ozark+High+School/@37.0318063,-93.2165775,15z)
-Home Football Game (Senior Night) | 9/30/2016 | [Francis Howell High School](https://www.google.com/maps/place/Francis+Howell+High+School/@38.7021906,-90.7164762,15z)
-Fort Zumwalt North Contest | 10/1/2016 | [Fort Zumwalt North High School](https://www.google.com/maps/place/North+High+School/@38.8198324,-90.6679017,15z)
-Bi-State Classic Contest | 10/8/2016 | [Potosi High School](https://www.google.com/maps/place/Potosi+High+School/@37.9356636,-90.7919518,15z)
-Mizzou Contest | 10/15/2016 | [University of Missouri - Columbia](https://www.google.com/maps/place/Faurot+Field+at+Memorial+Stadium/@38.9358491,-92.3332009,15z)
-Bands of America - TBA | 10/21/2016 | [The Dome at America's Center - St. Louis](https://www.google.com/maps/place/The+Dome+at+America's+Center/@38.6328287,-90.1885095,15z)
-St. Genevieve Marching Contest | 10/22/2016 | [St. Genevieve High School](https://www.google.com/maps/place/St+Genevieve+High+School/@34.2219188,-118.4379899,15z)
-FHHS Invitational | 10/29/2016 | [Francis Howell High School](https://www.google.com/maps/place/Francis+Howell+High+School/@38.7021906,-90.7164762,15z)
-Fauxcoming | 11/5/2016 | [Francis Howell Middle School](https://www.google.com/maps/place/Francis+Howell+Middle+School/@38.7198624,-90.6769205,15z)
+Home Football Game | 8/18/2017 | [Francis Howell High School](https://www.google.com/maps/place/Francis+Howell+High+School/@38.7021906,-90.7164762,15z)
+FHSD District Preview | 8/24/2017 | [Francis Howell Central High School](https://www.google.com/maps/place/Francis+Howell+North+High+School/@38.7618243,-90.5596178,15z)
+Mozingo Music Drumline Competition | 8/26/2017 | [Eureka High School](https://www.google.com/maps/place/Eureka+High+School/@38.5155453,-90.6290997,15z)
+Home Football Game | 9/8/2017 | [Francis Howell High School](https://www.google.com/maps/place/Francis+Howell+High+School/@38.7021906,-90.7164762,15z)
+O'Fallon Township HS Festival | 9/9/2017 | [O'Fallon Township High School](https://www.google.com/maps/place/O'Fallon+Township+High+School/@38.5866357,-89.9013462,15z)
+Home Football Game | 9/15/2017 | [Francis Howell High School](https://www.google.com/maps/place/Francis+Howell+High+School/@38.7021906,-90.7164762,15z)
+Ozark Marching Festival | 9/30/2017 | [Ozark High School](https://www.google.com/maps/place/Ozark+High+School/@37.0318063,-93.2165775,15z)
+Home Football Game (Homecoming) | 10/6/2017 | [Francis Howell High School](https://www.google.com/maps/place/Francis+Howell+High+School/@38.7021906,-90.7164762,15z)
+Washington HS Contest | 10/7/2017 | [Washington High School](https://www.google.com/maps/place/Washington+High+School/@38.5479344,-91.0093225,15z)
+Home Football Game (Senior Night) | 10/13/2017 | [Francis Howell High School](https://www.google.com/maps/place/Francis+Howell+High+School/@38.7021906,-90.7164762,15z)
+Fort Zumwalt North HS River City Contest | 10/14/2017 | [Fort Zumwalt North High School](https://www.google.com/maps/place/North+High+School/@38.8198324,-90.6679017,15z)
+Bands of America - TBA | 10/21/2017 | [The Dome at America's Center - St. Louis](https://www.google.com/maps/place/The+Dome+at+America's+Center/@38.6328287,-90.1885095,15z)
+FHHS Invitational | 10/28/2017 | [Francis Howell High School](https://www.google.com/maps/place/Francis+Howell+High+School/@38.7021906,-90.7164762,15z)
+
 
 # Videos
 <div class="row">

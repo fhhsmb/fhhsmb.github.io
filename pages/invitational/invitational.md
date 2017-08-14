@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title:  "2017 Director's Letter"
-teaser: "Here you will find information on the 2017 FHHS Invitational."
+teaser: ""
 categories:
     - bands
 tags:
@@ -11,9 +11,9 @@ header:
     image_fullwidth: "mb-header.jpg"
 ---
 
-<p style="text-align: center;"><img src="/images/logo.jpg" alt="vikinglogo" width="100" height="62" /></p>
+<p style="text-align: center;"><img src="/images/vikinglogo.jpg" alt="vikinglogo" width="100" height="62" /></p>
 <h2 style="text-align: center;">Francis Howell High School Band Booster Association</h2>
-<address style="text-align: center;">7001 Highway 94 South &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;St. Charles, MO 63304 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Phone:636.851.4803<hr /></address><address style="text-align: center;"><a href="images/Director-Invite-Letter-2017.pdf" target="_blank" title="2017 Director Invite Letter">Print this letter</a>&nbsp;</address><address><span>January 20, 2017</span></address><address><span></span></address>
+<address style="text-align: center;">7001 Highway 94 South &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;St. Charles, MO 63304 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Phone: 636.851.4803<hr /></address><address style="text-align: center;"><a href="images/Director-Invite-Letter-2017.pdf" target="_blank" title="2017 Director Invite Letter">Print this letter</a>&nbsp;</address><address><span>January 20, 2017</span></address><address><span></span></address>
 <p><span>Dear Band Director,</span></p>
 <p style="text-align: justify;"><span>I am very excited to invite you and your band to join us on October 28, 2017 (rain or shine) for the <strong><span style="text-decoration: underline;">37<sup>th</sup>Annual Francis Howell Marching Invitational</span></strong>.&nbsp; We will hold the event at Francis Howell High School on the all-weather turf field inside Viking Stadium and use a prelims/finals format. We have used Team Pageantry, Inc. to judge the event each of the last four years, and we plan to contract with them again for this year&rsquo;s event.</span></p>
 <h4><span>Band Classification:</span></h4>
@@ -54,8 +54,8 @@ header:
 <li><span><strong>Visual Performance Ensemble  &#8680; </strong></span></li>
 </ul>
 </td>
-<td rowspan="2" style="width: 112px;"><span valign="middle"><strong>Averaged</strong></span></td>
-<td rowspan="2" style="width: 30px;" align="right" valign="middle"><span><strong>20%</strong></span></td>
+<th rowspan="2" style="width: 112px;"><strong>Averaged</strong></th>
+<th rowspan="2" style="width: 30px;" align="right"><strong>20%</strong></th>
 </tr>
 <tr>
 <td valign="middle">
