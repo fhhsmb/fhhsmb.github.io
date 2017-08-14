@@ -7,10 +7,10 @@ tags:
     - invitational
 permalink: "/invitational/"
 header:
-    image_fullwidth: "mb-header.png"
+    image_fullwidth: "mb-header.jpg"
 ---
 <ul>
-    {% for post in site.categories.boosters %}
-    <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+    {% for page in site.tags.invitational %}
+    <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
     {% endfor %}
 </ul>
